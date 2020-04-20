@@ -53,7 +53,7 @@ public class FrmPrincipal extends javax.swing.JFrame {
         });
 
         btnResta.setFont(new java.awt.Font("Minion Pro", 0, 24)); // NOI18N
-        btnResta.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/menos.png"))); // NOI18N
+        btnResta.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/resta.png"))); // NOI18N
         btnResta.setText("   Resta");
         btnResta.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -62,7 +62,7 @@ public class FrmPrincipal extends javax.swing.JFrame {
         });
 
         btnDivision.setFont(new java.awt.Font("Minion Pro", 0, 24)); // NOI18N
-        btnDivision.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/div.png"))); // NOI18N
+        btnDivision.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/divicion.png"))); // NOI18N
         btnDivision.setText("    Division");
         btnDivision.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

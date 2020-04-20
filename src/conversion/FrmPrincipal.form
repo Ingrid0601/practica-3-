@@ -68,7 +68,7 @@
           <Font name="Minion Pro" size="24" style="0"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/iconos/menos.png"/>
+          <Image iconType="3" name="/iconos/resta.png"/>
         </Property>
         <Property name="text" type="java.lang.String" value="   Resta"/>
       </Properties>
@@ -82,7 +82,7 @@
           <Font name="Minion Pro" size="24" style="0"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/iconos/div.png"/>
+          <Image iconType="3" name="/iconos/divicion.png"/>
         </Property>
         <Property name="text" type="java.lang.String" value="    Division"/>
       </Properties>
